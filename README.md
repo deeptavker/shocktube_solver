@@ -10,6 +10,6 @@ Results using Summation Density for density udpation :
 
 ![alt text](https://github.com/deeptavker/Shocktube_SPH/blob/master/figure_sd_output.png)
 
-Results using Continuity Equation for density summation :
+Results using Continuity Equation for density updation :
 
 ![alt text](https://github.com/deeptavker/Shocktube_SPH/blob/master/figure_ce_output.png)
